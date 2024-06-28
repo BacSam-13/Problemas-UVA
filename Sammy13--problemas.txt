@@ -1,0 +1,54 @@
+# A continuacion se listan los problemas resueltos durante el semestre  de 
+# nivel 3 o superior.
+#
+# La descripcion de como resolver cada problema se encuentra en la seccion 
+#
+# Solucion -------------------------------------
+# ----------------------------------------------
+#
+# del archivo cpp de la carpeta correspondiente
+
+# Usuario 
+Sammy 13
+
+13025/Back to the Past.cpp
+13034/Solve Everytinh (carita feliz).cpp
+12696/Cabin Baggage.cpp
+893/Y3K Problem.cpp
+12136/Schedule of a Married Man.cpp
+12531/Hours and Minutes.cpp
+11947/Cancer o Scorpio.cpp
+12247/Jollo.cpp
+12952/Tri-du.cpp
+11459/Snakes and Ladder.cpp
+10363/Tic Tac Toe.cpp
+11878/Homework Checker.cpp
+144/Student Grant.cpp
+556/Amazing.cpp
+12060/All Integer Average.cpp
+10920/Spial Tap.cpp
+12541/Birthdates.cpp
+11496/Bubbles and Buckets.cpp
+11879/Multiple of 17.cpp
+1062/Containers.cpp
+11239/Open Source.cpp
+11308/Bankrupt Baker.cpp
+616/Coconuts/Revisitdes.cpp
+11254/Consecutive Integers.cpp
+608/Counterfeit Dollar.cpp
+410/Station Balance.cpp
+11790/Murcia´s Skyline.cpp
+990/Diving for gold.cpp
+12004/Bubble Sort.cpp
+10268/498-bis.cpp
+11634/Generate random numbers.cpp
+10892/LCM cardinality.cpp
+941/Permutations.cpp
+11489/Integer Game.cpp
+526/String Distance and Transforma Process.cpp
+454/Anagrams.cpp
+10301/Rings and Glue.cpp
+11492/Babel.cpp
+10014/Simple Calculations.cpp
+1185/Big Number.cppp
+11526/H(n).cpp
